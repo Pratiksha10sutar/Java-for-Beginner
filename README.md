@@ -1,5 +1,5 @@
 # Java-for-Beginner
-Month 1: Core Java Fundamentals
+<b>Month 1: Core Java Fundamentals</b>
 Week 1: Basics of Java
 •	Day 1: Introduction to Java, JDK, JRE, JVM, Hello World
 •	Day 2: Variables, Data Types, Type Casting
