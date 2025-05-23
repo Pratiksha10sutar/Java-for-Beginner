@@ -6,6 +6,6 @@ class variable1 {
         double d=145;
         char c='a';
         boolean e=true;
-        System.out.println("a = " + a + ",b=" +b +",d = " +d +",c="+c+",e="+e );
+        System.out.println("a = " + a + ",b = " + b + ", d = " + d +", c= "+ c +",e =" + e );
     }
 }
